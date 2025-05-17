@@ -61,3 +61,6 @@ A--------1------B
 | Yuki | 24.5 | 24.0 | 11.5 | Creativity & Drawing |
 
 ⚠️ We're still missing Ollie
+
+## Alternative: Paper Template
+For those who want to try the system without physical figures, we provide printable PDF templates with marked touch points.
