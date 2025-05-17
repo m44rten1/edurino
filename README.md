@@ -33,10 +33,13 @@ A--------1------B
 | Asa | 28.5 | 12.5 | 30.5 | Animal World |
 | Niki | 18.0 | 18.0 | 18.0 | Basic English |
 | Mika (Stufe 2) | 20.0 | 24.0 | 13.5 | Reading & Writing |
-| Robin 1 | 26.0 | 27.5 | 19.0 | Numbers & Quantities |
+| Robin (Stufe 1) | 26.0 | 27.5 | 19.0 | Numbers & Quantities |
 | Alex | 27.5 | 27.0 | 20.0 | Learning Time |
 | Ari | 30.0 | 22.0 | 14.0 | Body Parts |
 | Leo | 20.0 | 18.5 | 16.0 | Emotions |
 | Mika (Stufe 1) | 38.0 | 32.0 | 22.0 | Basic Skills |
 | Asa | 25.5 | 28.0 | 33.0 | Nature |
 | Yuki | 24.5 | 24.0 | 11.5 | Creativity & Drawing |
+
+
+⚠️ We're still missing Ollie
