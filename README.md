@@ -17,6 +17,17 @@ This repository provides resources for recreating Edurino learning figures and s
 
 ---
 
+## Usage Instructions
+
+1. Print the figure disks using the provided STL files
+2. Print and cut out the character stickers
+3. Apply stickers to the flat part of the disk
+4. Open the Edurino app on your device
+5. Place your fingers in the three holes of the figure
+6. Follow the app's instructions to interact with the learning content
+
+Note: The figures work by using your fingers as conductive elements. Place your fingers firmly in the holes to ensure proper contact with the device's screen.
+
 ## 3D Printing
 
 ### Figures
@@ -26,7 +37,7 @@ The `STL/Figures` directory contains 3D models for each learning figure. These a
 The `STL/Box` directory contains models for a custom storage solution, designed to safely store and organize your Edurino figures.
 
 ### Stickers
-Each figure comes with a matching sticker design that can be printed and applied to the top of the figure disk. This makes it easy to identify which disk belongs to which character. Print these on sticker paper for best results.
+Each figure comes with a matching sticker design that can be printed and applied to the flat part of the figure disk. This makes it easy to identify which disk belongs to which character. Print these on sticker paper for best results.
 
 ## Pin Measurements
 
@@ -50,24 +61,35 @@ A--------1------B
 
 ### Figure Measurements
 
-| Figure Name | Distance 1 (mm) | Distance 2 (mm) | Distance 3 (mm) | Category |
-|------------|---------|---------|---------|-----------|
-| Luca | 35.0 | 25.0 | 23.0 | Logical Thinking & Coding |
-| Robin (Stufe 2) | 15.0 | 22.5 | 12.5 | Basic Math (up to 10) |
-| Leo | 26.5 | 22.5 | 24.0 | Friendship & Social Skills |
-| Luca | 15.5 | 24.5 | 20.0 | Digital Media Understanding |
-| Asa | 28.5 | 12.5 | 30.5 | Animal World |
-| Niki | 18.0 | 18.0 | 18.0 | Basic English |
-| Mika (Stufe 2) | 20.0 | 24.0 | 13.5 | Reading & Writing |
-| Robin (Stufe 1) | 26.0 | 27.5 | 19.0 | Numbers & Quantities |
-| Alex | 27.5 | 27.0 | 20.0 | Learning Time |
-| Ari | 30.0 | 22.0 | 14.0 | Body Parts |
-| Leo | 20.0 | 18.5 | 16.0 | Emotions |
-| Mika (Stufe 1) | 38.0 | 32.0 | 22.0 | Basic Skills |
-| Asa | 25.5 | 28.0 | 33.0 | Nature |
-| Yuki | 24.5 | 24.0 | 11.5 | Creativity & Drawing |
+| Figure Name | Distance 1 (mm) | Distance 2 (mm) | Distance 3 (mm) | Category | Level |
+|------------|---------|---------|---------|-----------|-------|
+| Luca (Coding) | 35.0 | 25.0 | 23.0 | Logical Thinking & Coding | 1 |
+| Luca (Media) | 15.5 | 24.5 | 20.0 | Digital Media Understanding | 1 |
+| Robin | 15.0 | 22.5 | 12.5 | Basic Math (up to 10) | 2 |
+| Leo (Friendship) | 26.5 | 22.5 | 24.0 | Friendship & Social Skills | 1 |
+| Leo (Emotions) | 20.0 | 18.5 | 16.0 | Emotions | 2 |
+| Asa (Animals) | 28.5 | 12.5 | 30.5 | Animal World | 1 |
+| Asa (Nature) | 25.5 | 28.0 | 33.0 | Nature | 2 |
+| Niki | 18.0 | 18.0 | 18.0 | Basic English | 1 |
+| Mika | 20.0 | 24.0 | 13.5 | Reading & Writing | 2 |
+| Robin | 26.0 | 27.5 | 19.0 | Numbers & Quantities | 1 |
+| Alex | 27.5 | 27.0 | 20.0 | Learning Time | 1 |
+| Ari | 30.0 | 22.0 | 14.0 | Body Parts | 1 |
+| Mika | 38.0 | 32.0 | 22.0 | Basic Skills | 1 |
+| Yuki | 24.5 | 24.0 | 11.5 | Creativity & Drawing | 1 |
 
 ⚠️ We're still missing Ollie
 
-## Alternative: Paper Template
-For those who want to try the system without physical figures, we provide printable PDF templates with marked touch points.
+## Paper Template Alternative
+
+For those who want to try the system without 3D printing, we provide printable PDF templates in the `Templates` directory. These templates include:
+- Full-size figure outlines with marked touch points
+- Character stickers
+- Instructions for use with the Edurino app
+
+To use the paper templates:
+1. Print the template on regular paper
+2. Place the paper template on top of your tablet screen
+3. Place your fingers on the marked dots on the paper
+4. The paper acts as a guide for your finger placement, similar to the 3D printed figures
+
