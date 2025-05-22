@@ -50,7 +50,7 @@ A--------1------B
 
 ### Figure Measurements
 
-| Figure Name | 1 | 2 | 3 | Category |
+| Figure Name | Distance 1 (mm) | Distance 2 (mm) | Distance 3 (mm) | Category |
 |------------|---------|---------|---------|-----------|
 | Luca | 35.0 | 25.0 | 23.0 | Logical Thinking & Coding |
 | Robin (Stufe 2) | 15.0 | 22.5 | 12.5 | Basic Math (up to 10) |
