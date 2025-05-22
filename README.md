@@ -61,22 +61,24 @@ A--------1------B
 
 ### Figure Measurements
 
-| Figure Name | Distance 1 (mm) | Distance 2 (mm) | Distance 3 (mm) | Category | Level |
-|------------|---------|---------|---------|-----------|-------|
-| Luca (Coding) | 35.0 | 25.0 | 23.0 | Logical Thinking & Coding | 1 |
-| Luca (Media) | 15.5 | 24.5 | 20.0 | Digital Media Understanding | 1 |
-| Robin | 15.0 | 22.5 | 12.5 | Basic Math (up to 10) | 2 |
-| Leo (Friendship) | 26.5 | 22.5 | 24.0 | Friendship & Social Skills | 1 |
-| Leo (Emotions) | 20.0 | 18.5 | 16.0 | Emotions | 2 |
-| Asa (Animals) | 28.5 | 12.5 | 30.5 | Animal World | 1 |
-| Asa (Nature) | 25.5 | 28.0 | 33.0 | Nature | 2 |
-| Niki | 18.0 | 18.0 | 18.0 | Basic English | 1 |
-| Mika | 20.0 | 24.0 | 13.5 | Reading & Writing | 2 |
-| Robin | 26.0 | 27.5 | 19.0 | Numbers & Quantities | 1 |
-| Alex | 27.5 | 27.0 | 20.0 | Learning Time | 1 |
-| Ari | 30.0 | 22.0 | 14.0 | Body Parts | 1 |
-| Mika | 38.0 | 32.0 | 22.0 | Basic Skills | 1 |
-| Yuki | 24.5 | 24.0 | 11.5 | Creativity & Drawing | 1 |
+| Figure Name | Distance 1 (mm) | Distance 2 (mm) | Distance 3 (mm) | Category |
+|------------|---------|---------|---------|-----------|
+| Luca (Coding) | 35.0 | 25.0 | 23.0 | Logical Thinking & Coding |
+| Luca (Media) | 15.5 | 24.5 | 20.0 | Digital Media Understanding |
+| Robin (Math) | 15.0 | 22.5 | 12.5 | Basic Math (up to 10) |
+| Leo (Friendship) | 26.5 | 22.5 | 24.0 | Friendship & Social Skills |
+| Leo (Emotions) | 20.0 | 18.5 | 16.0 | Emotions |
+| Asa (Animals) | 28.5 | 12.5 | 30.5 | Animal World |
+| Asa (Nature) | 25.5 | 28.0 | 33.0 | Nature |
+| Niki | 18.0 | 18.0 | 18.0 | Basic English |
+| Mika (Reading) | 20.0 | 24.0 | 13.5 | Reading & Writing |
+| Robin (Numbers) | 26.0 | 27.5 | 19.0 | Numbers & Quantities |
+| Alex | 27.5 | 27.0 | 20.0 | Learning Time |
+| Ari | 30.0 | 22.0 | 14.0 | Body Parts |
+| Mika (Basic) | 38.0 | 32.0 | 22.0 | Basic Skills |
+| Yuki | 24.5 | 24.0 | 11.5 | Creativity & Drawing |
+
+Note: Some figures have multiple versions for different difficulty levels (e.g., Robin for Math and Numbers, Mika for Reading and Basic Skills).
 
 ⚠️ We're still missing Ollie
 
