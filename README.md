@@ -20,7 +20,7 @@ This repository provides resources for recreating Edurino learning figures and s
 ## 3D Printing
 
 ### Figures
-The `STL/Figures` directory contains 3D models for each learning figure. Each model is designed to match the original Edurino figures' dimensions and pin placements. Each figure disk includes a flat surface on top where you can apply the corresponding character sticker for easy identification.
+The `STL/Figures` directory contains 3D models for each learning figure. These are designed as flat disks with three holes positioned at specific distances from each other, matching the original Edurino figures' pin placements. Instead of using conductive pins, these DIY versions work by guiding your fingers to the correct positions - you place your fingers in the holes to interact with the Edurino app, effectively using your fingers as the conductive pins. Each disk includes a flat surface on top where you can apply the corresponding character sticker for easy identification.
 
 ### Storage Box
 The `STL/Box` directory contains models for a custom storage solution, designed to safely store and organize your Edurino figures.
