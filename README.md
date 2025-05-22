@@ -10,6 +10,13 @@ This repository provides resources for recreating Edurino learning figures and s
 - **Measurements**: Detailed pin spacing measurements for each figure
 - **Stickers**: Printable figure designs to identify each disk
 
+---
+
+![Finished Product](finished-product.jpeg)
+*Example of finished 3D-printed Edurino figures with stickers and storage box.*
+
+---
+
 ## 3D Printing
 
 ### Figures
