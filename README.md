@@ -1,6 +1,6 @@
 🌍 Verfügbare Sprachen: [English](README.en.md) | [Deutsch](README.md)
 
-# DIY Edurino Figuren & Aufbewahrung
+# DIY [Edurino](https://www.edurino.com/) Figuren & Aufbewahrung
 
 Dieses Repository bietet Ressourcen zum Nachbauen von Edurino Lernfiguren und Aufbewahrungslösungen. Edurino ist ein pädagogisches Spielsystem, das leitfähige Figuren für interaktives Lernen verwendet. Jede Figur wird durch drei leitfähige Pins identifiziert, die in bestimmten Abständen zueinander positioniert sind.
 

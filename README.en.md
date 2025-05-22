@@ -1,6 +1,6 @@
 🌍 Available languages: [English](README.en.md) | [Deutsch](README.md)
 
-# DIY Edurino Figures & Storage
+# DIY [Edurino](https://www.edurino.com/) Figures & Storage
 
 This repository provides resources for recreating Edurino learning figures and storage solutions. Edurino is an educational toy system that uses conductive figures for interactive learning. Each figure is uniquely identified by three conductive pins positioned at specific distances from each other.
 
