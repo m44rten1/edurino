@@ -1,47 +1,49 @@
-# DIY Edurino Figures & Storage
+🌍 Verfügbare Sprachen: [English](README.en.md) | [Deutsch](README.md)
 
-This repository provides resources for recreating Edurino learning figures and storage solutions. Edurino is an educational toy system that uses conductive figures for interactive learning. Each figure is uniquely identified by three conductive pins positioned at specific distances from each other.
+# DIY Edurino Figuren & Aufbewahrung
 
-## Repository Contents
+Dieses Repository bietet Ressourcen zum Nachbauen von Edurino Lernfiguren und Aufbewahrungslösungen. Edurino ist ein pädagogisches Spielsystem, das leitfähige Figuren für interaktives Lernen verwendet. Jede Figur wird durch drei leitfähige Pins identifiziert, die in bestimmten Abständen zueinander positioniert sind.
 
-- **STL Files**: 3D printable models for:
-  - Learning figures compatible with the Edurino system
-  - Storage box to organize and protect your figures
-- **Measurements**: Detailed pin spacing measurements for each figure
-- **Stickers**: Printable figure designs to identify each disk
+## Repository-Inhalte
 
----
-
-![Finished Product](finished-product.jpeg)
-*Example of finished 3D-printed Edurino figures with stickers and storage box.*
+- **STL-Dateien**: 3D-druckbare Modelle für:
+  - Lernfiguren, kompatibel mit dem Edurino-System
+  - Aufbewahrungsbox zur Organisation und zum Schutz Ihrer Figuren
+- **Maße**: Detaillierte Pin-Abstände für jede Figur
+- **Aufkleber**: Druckbare Figurendesigns zur Kennzeichnung jeder Scheibe
 
 ---
 
-## Usage Instructions
+![Fertiges Produkt](finished-product.jpeg)
+*Beispiel für fertige 3D-gedruckte Edurino-Figuren mit Aufklebern und Aufbewahrungsbox.*
 
-1. Print the figure disks using the provided STL files
-2. Print and cut out the character stickers
-3. Apply stickers to the flat part of the disk
-4. Open the Edurino app on your device
-5. Place your fingers in the three holes of the figure
-6. Follow the app's instructions to interact with the learning content
+---
 
-Note: The figures work by using your fingers as conductive elements. Place your fingers firmly in the holes to ensure proper contact with the device's screen.
+## Anleitung zur Verwendung
 
-## 3D Printing
+1. Drucken Sie die Figurenscheiben mit den bereitgestellten STL-Dateien
+2. Drucken und schneiden Sie die Charakter-Aufkleber aus
+3. Bringen Sie die Aufkleber auf der flachen Seite der Scheibe an
+4. Öffnen Sie die Edurino-App auf Ihrem Gerät
+5. Platzieren Sie Ihre Finger in den drei Löchern der Figur
+6. Folgen Sie den Anweisungen der App, um mit den Lerninhalten zu interagieren
 
-### Figures
-The `STL/Figures` directory contains 3D models for each learning figure. These are designed as flat disks with three holes positioned at specific distances from each other, matching the original Edurino figures' pin placements. Instead of using conductive pins, these DIY versions work by guiding your fingers to the correct positions - you place your fingers in the holes to interact with the Edurino app, effectively using your fingers as the conductive pins. Each disk includes a flat surface on top where you can apply the corresponding character sticker for easy identification.
+Hinweis: Die Figuren funktionieren, indem Ihre Finger als leitfähige Elemente dienen. Platzieren Sie Ihre Finger fest in den Löchern, um einen ordnungsgemäßen Kontakt mit dem Bildschirm des Geräts sicherzustellen.
 
-### Storage Box
-The `STL/Box` directory contains models for a custom storage solution, designed to safely store and organize your Edurino figures.
+## 3D-Druck
 
-### Stickers
-Each figure comes with a matching sticker design that can be printed and applied to the flat part of the figure disk. This makes it easy to identify which disk belongs to which character. Print these on sticker paper for best results.
+### Figuren
+Das Verzeichnis `STL/Figures` enthält 3D-Modelle für jede Lernfigur. Diese sind als flache Scheiben mit drei Löchern konzipiert, die in bestimmten Abständen zueinander positioniert sind und den Pin-Platzierungen der originalen Edurino-Figuren entsprechen. Anstatt leitfähige Pins zu verwenden, funktionieren diese DIY-Versionen, indem sie Ihre Finger in die richtigen Positionen führen - Sie platzieren Ihre Finger in den Löchern, um mit der Edurino-App zu interagieren, wobei Ihre Finger effektiv als leitfähige Pins dienen. Jede Scheibe hat eine flache Oberseite, auf der Sie den entsprechenden Charakter-Aufkleber zur einfachen Identifizierung anbringen können.
 
-## Pin Measurements
+### Aufbewahrungsbox
+Das Verzeichnis `STL/Box` enthält Modelle für eine individuelle Aufbewahrungslösung, die zum sicheren Aufbewahren und Organisieren Ihrer Edurino-Figuren konzipiert ist.
 
-All measurements are in millimeters (mm) and taken from the bottom view, following a clockwise pattern as shown:
+### Aufkleber
+Jede Figur wird mit einem passenden Aufkleber-Design geliefert, das gedruckt und auf der flachen Seite der Figurenscheibe angebracht werden kann. Dies erleichtert die Identifizierung, welche Scheibe zu welchem Charakter gehört. Drucken Sie diese am besten auf Aufkleberpapier.
+
+## Pin-Maße
+
+Alle Maße sind in Millimetern (mm) angegeben und werden von der Unterseite aus im Uhrzeigersinn gemessen, wie dargestellt:
 
 ```
 A--------1------B
@@ -54,44 +56,43 @@ A--------1------B
               . |
                 B
 
-1: Distance between pins A-B
-2: Distance between pins B-C
-3: Distance between pins C-A
+1: Abstand zwischen Pins A-B
+2: Abstand zwischen Pins B-C
+3: Abstand zwischen Pins C-A
 ```
 
-### Figure Measurements
+### Figuren-Maße
 
-| Figure Name | Distance 1 (mm) | Distance 2 (mm) | Distance 3 (mm) | Category |
+| Figurenname | Abstand 1 (mm) | Abstand 2 (mm) | Abstand 3 (mm) | Kategorie |
 |------------|---------|---------|---------|-----------|
-| Luca (Coding) | 35.0 | 25.0 | 23.0 | Logical Thinking & Coding |
-| Luca (Media) | 15.5 | 24.5 | 20.0 | Digital Media Understanding |
-| Robin (Math) | 15.0 | 22.5 | 12.5 | Basic Math (up to 10) |
-| Leo (Friendship) | 26.5 | 22.5 | 24.0 | Friendship & Social Skills |
-| Leo (Emotions) | 20.0 | 18.5 | 16.0 | Emotions |
-| Asa (Animals) | 28.5 | 12.5 | 30.5 | Animal World |
-| Asa (Nature) | 25.5 | 28.0 | 33.0 | Nature |
-| Niki | 18.0 | 18.0 | 18.0 | Basic English |
-| Mika (Reading) | 20.0 | 24.0 | 13.5 | Reading & Writing |
-| Robin (Numbers) | 26.0 | 27.5 | 19.0 | Numbers & Quantities |
-| Alex | 27.5 | 27.0 | 20.0 | Learning Time |
-| Ari | 30.0 | 22.0 | 14.0 | Body Parts |
-| Mika (Basic) | 38.0 | 32.0 | 22.0 | Basic Skills |
-| Yuki | 24.5 | 24.0 | 11.5 | Creativity & Drawing |
+| Luca (Programmierung) | 35.0 | 25.0 | 23.0 | Logisches Denken & Programmierung |
+| Luca (Medien) | 15.5 | 24.5 | 20.0 | Digitales Medienverständnis |
+| Robin (Mathe) | 15.0 | 22.5 | 12.5 | Grundrechenarten (bis 10) |
+| Leo (Freundschaft) | 26.5 | 22.5 | 24.0 | Freundschaft & Soziale Kompetenzen |
+| Leo (Emotionen) | 20.0 | 18.5 | 16.0 | Emotionen |
+| Asa (Tiere) | 28.5 | 12.5 | 30.5 | Tierwelt |
+| Asa (Natur) | 25.5 | 28.0 | 33.0 | Natur |
+| Niki | 18.0 | 18.0 | 18.0 | Grundkenntnisse Englisch |
+| Mika (Lesen) | 20.0 | 24.0 | 13.5 | Lesen & Schreiben |
+| Robin (Zahlen) | 26.0 | 27.5 | 19.0 | Zahlen & Mengen |
+| Alex | 27.5 | 27.0 | 20.0 | Uhrzeit lernen |
+| Ari | 30.0 | 22.0 | 14.0 | Körperteile |
+| Mika (Grundlagen) | 38.0 | 32.0 | 22.0 | Grundfertigkeiten |
+| Yuki | 24.5 | 24.0 | 11.5 | Kreativität & Zeichnen |
 
-Note: Some figures have multiple versions for different difficulty levels (e.g., Robin for Math and Numbers, Mika for Reading and Basic Skills).
+Hinweis: Einige Figuren haben mehrere Versionen für verschiedene Schwierigkeitsgrade (z.B. Robin für Mathe und Zahlen, Mika für Lesen und Grundfertigkeiten).
 
-⚠️ We're still missing Ollie
+⚠️ Ollie fehlt noch
 
-## Paper Template Alternative
+## Papier-Vorlage Alternative
 
-For those who want to try the system without 3D printing, we provide printable PDF templates in the `Templates` directory. These templates include:
-- Full-size figure outlines with marked touch points
-- Character stickers
-- Instructions for use with the Edurino app
+Für diejenigen, die das System ohne 3D-Druck ausprobieren möchten, stellen wir druckbare PDF-Vorlagen im Verzeichnis `Templates` zur Verfügung. Diese Vorlagen umfassen:
+- Figurenumrisse in Originalgröße mit markierten Berührungspunkten
+- Charakter-Aufkleber
+- Anleitung zur Verwendung mit der Edurino-App
 
-To use the paper templates:
-1. Print the template on regular paper
-2. Place the paper template on top of your tablet screen
-3. Place your fingers on the marked dots on the paper
-4. The paper acts as a guide for your finger placement, similar to the 3D printed figures
-
+So verwenden Sie die Papier-Vorlagen:
+1. Drucken Sie die Vorlage auf normalem Papier
+2. Legen Sie die Papier-Vorlage auf Ihren Tablet-Bildschirm
+3. Platzieren Sie Ihre Finger auf den markierten Punkten auf dem Papier
+4. Das Papier dient als Führung für Ihre Fingerpositionierung, ähnlich wie die 3D-gedruckten Figuren
