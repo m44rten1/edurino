@@ -73,16 +73,17 @@ A--------1------B
 | Asa (Tiere) | 28.5 | 12.5 | 30.5 | Tierwelt |
 | Asa (Natur) | 25.5 | 28.0 | 33.0 | Natur |
 | Niki | 18.0 | 18.0 | 18.0 | Grundkenntnisse Englisch |
-| Mika (Lesen) | 20.0 | 24.0 | 13.5 | Lesen & Schreiben |
 | Robin (Zahlen) | 26.0 | 27.5 | 19.0 | Zahlen & Mengen |
-| Alex | 27.5 | 27.0 | 20.0 | Uhrzeit lernen |
 | Ari | 30.0 | 22.0 | 14.0 | Körperteile |
 | Mika (Grundlagen) | 38.0 | 32.0 | 22.0 | Grundfertigkeiten |
+| Mika (Sätze) | 24.4 | 30.7 | 31.2 | Wörter & Sätze |
+| Mika (Lesen) | 20.0 | 24.0 | 13.5 | Lesen & Schreiben |
 | Yuki | 24.5 | 24.0 | 11.5 | Kreativität & Zeichnen |
+| Alex (Uhrzeit) | 27.5 | 27.0 | 20.0 | Uhrzeit lernen |
+| Alex (Kalender) | 18.2 | 14.9 | 31.1 | Jahreszeiten & Kalender |
+| Ollie | 18.8 | 21.0 | 22.1 | Aufmerksamkeit & Konzentration |
 
 Hinweis: Einige Figuren haben mehrere Versionen für verschiedene Schwierigkeitsgrade (z.B. Robin für Mathe und Zahlen, Mika für Lesen und Grundfertigkeiten).
-
-⚠️ Ollie fehlt noch
 
 ## Papier-Vorlage Alternative
 

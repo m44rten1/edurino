@@ -73,16 +73,17 @@ A--------1------B
 | Asa (Animals) | 28.5 | 12.5 | 30.5 | Animal World |
 | Asa (Nature) | 25.5 | 28.0 | 33.0 | Nature |
 | Niki | 18.0 | 18.0 | 18.0 | Basic English |
-| Mika (Reading) | 20.0 | 24.0 | 13.5 | Reading & Writing |
 | Robin (Numbers) | 26.0 | 27.5 | 19.0 | Numbers & Quantities |
-| Alex | 27.5 | 27.0 | 20.0 | Learning Time |
 | Ari | 30.0 | 22.0 | 14.0 | Body Parts |
 | Mika (Basic) | 38.0 | 32.0 | 22.0 | Basic Skills |
+| Mika (Sentences) | 24.4 | 30.7 | 31.2 | Words & Sentences |
+| Mika (Reading) | 20.0 | 24.0 | 13.5 | Reading & Writing |
 | Yuki | 24.5 | 24.0 | 11.5 | Creativity & Drawing |
+| Alex (Time) | 27.5 | 27.0 | 20.0 | Learning Time |
+| Alex (Calendar) | 18.2 | 14.9 | 31.1 | Seasons & Calendar |
+| Ollie | 18.8 | 21.0 | 22.1 | Attention & Concentration |
 
 Note: Some figures have multiple versions for different difficulty levels (e.g., Robin for Math and Numbers, Mika for Reading and Basic Skills).
-
-⚠️ We're still missing Ollie
 
 ## Paper Template Alternative
 
