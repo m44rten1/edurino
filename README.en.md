@@ -87,7 +87,8 @@ A--------1------B
 | Ollie (Attention)       | 18.8            | 21.0            | 22.1            | Attention & Concentration   |
 | Ollie (Problem Solving) | 31.6            | 29.3            | 15.9            | Problem Solving             |
 | Robin (Geometry)        | 32.4            | 32.2            | 12.1            | Geometry & Numbers          |
-| Ari (Nutrition)         | 26.0            | 11.7            | 22.8            | Nutrition                   |
+
+**Note:** Ari (Nutrition) has not been added to this project yet.
 
 Note: Some figures have multiple versions for different difficulty levels (e.g., Robin for Math and Numbers, Mika for Reading and Basic Skills).
 
