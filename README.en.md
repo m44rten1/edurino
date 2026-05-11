@@ -78,17 +78,17 @@ A--------1------B
 | Niki                    | 18.0            | 18.0            | 18.0            | Basic English               |
 | Robin (Numbers)         | 26.0            | 27.5            | 19.0            | Numbers & Quantities        |
 | Ari (Body Parts)        | 30.0            | 22.0            | 14.0            | Body Parts                  |
+| Ari (Nutrition)         | 12.5            | 25.5            | 31.5            | Nutrition                   |
 | Mika (Basic)            | 38.0            | 32.0            | 22.0            | Basic Skills                |
 | Mika (Sentences)        | 24.4            | 30.7            | 31.2            | Words & Sentences           |
 | Mika (Reading)          | 20.0            | 24.0            | 13.5            | Reading & Writing           |
 | Yuki                    | 24.5            | 24.0            | 11.5            | Creativity & Drawing        |
+| Yuki (Art)              | 29.0            | 20.0            | 19.0            | Art                         |
 | Alex (Time)             | 27.5            | 27.0            | 20.0            | Learning Time               |
 | Alex (Calendar)         | 18.2            | 14.9            | 31.1            | Seasons & Calendar          |
 | Ollie (Attention)       | 18.8            | 21.0            | 22.1            | Attention & Concentration   |
 | Ollie (Problem Solving) | 31.6            | 29.3            | 15.9            | Problem Solving             |
 | Robin (Geometry)        | 32.4            | 32.2            | 12.1            | Geometry & Numbers          |
-
-**Note:** Ari (Nutrition) has not been added to this project yet.
 
 Note: Some figures have multiple versions for different difficulty levels (e.g., Robin for Math and Numbers, Mika for Reading and Basic Skills).
 
